@@ -1,6 +1,6 @@
 {
   "name": "rift-snapshot",
-  "version": "0.0.10-jparklev.1",
+  "version": "0.0.10-jparklev.2",
   "description": "Fast copy-on-write development workspaces",
   "license": "MIT",
   "repository": {
@@ -38,6 +38,6 @@
   "riftSource": {
     "repository": "https://github.com/jparklev/rift",
     "branch": "dev",
-    "commit": "772d080"
+    "commit": "ea70f83"
   }
 }

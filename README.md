@@ -2,7 +2,7 @@
 
 Personal patched Rift snapshot for `jparklev/codex-sdk-runner`.
 
-This package is generated from [`jparklev/rift`](https://github.com/jparklev/rift), branch `dev`, commit `772d080`.
+This package is generated from [`jparklev/rift`](https://github.com/jparklev/rift), branch `dev`, commit `ea70f83`.
 
 It currently ships patched `darwin-arm64` prebuilds for Josh's Codex workflow runner:
 
